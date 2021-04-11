@@ -1,2 +1,2 @@
 # nbrb
-http://www.nbrb.by/bel/APIHelp/ExRates
+https://www.nbrb.by/bel/APIHelp/ExRates
